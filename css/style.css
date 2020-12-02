@@ -10,3 +10,11 @@
     width: 80%;
     text-align: center;
 }
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
