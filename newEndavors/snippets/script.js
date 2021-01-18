@@ -74,4 +74,4 @@ console.log(obj1);
 
 
 //Object.entries()
-
+//to be continue
